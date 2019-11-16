@@ -10,6 +10,7 @@ body {
 
 button {
     font-family: 'Poppins', sans-serif;
+    outline: none;
 }
 
 header {
